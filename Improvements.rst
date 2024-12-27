@@ -1,4 +1,4 @@
-59621033f8dc57f84835827fd59d53fb1a423fd8Improvements log
+Improvements.rst59621033f8dc57f84835827fd59d53fb1a423fd8Improvements log
 ================
 
 In this section a table is presented with optimization results in several projections.
